@@ -1,0 +1,9 @@
+# Ignorar datos locales de la base de datos de Docker
+.docker-data/
+postgres-data/
+
+# Archivos del sistema y entornos virtuales
+.env
+__pycache__/
+.venv/
+.DS_Store
